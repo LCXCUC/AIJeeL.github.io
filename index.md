@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/LCXCUC/AIJeeL.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm currently a Postdoctor with the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), under the supervision of Prof. Ran He. I received my Ph.D. degree from Communication University of China (CUC), in 2020. My research interests include CV, CG and ML, as well as their applications in face generation, face forensics, sketch creation, etc.
 
 ### Markdown
 
